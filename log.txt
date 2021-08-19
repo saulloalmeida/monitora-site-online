@@ -1,0 +1,48 @@
+17/08/2021 19:46:32https://random-status-code.herokuapp.com/ - online: false
+17/08/2021 19:46:32https://alura.com.br - online: true
+17/08/2021 19:46:33https://google.com.br - online: true
+17/08/2021 19:46:33https://casadocodigo.com.br - online: true
+17/08/2021 19:46:39https://random-status-code.herokuapp.com/ - online: true
+17/08/2021 19:46:39https://alura.com.br - online: true
+17/08/2021 19:46:39https://google.com.br - online: true
+17/08/2021 19:46:40https://casadocodigo.com.br - online: true
+17/08/2021 19:46:45https://random-status-code.herokuapp.com/ - online: false
+17/08/2021 19:46:45https://alura.com.br - online: true
+17/08/2021 19:46:46https://google.com.br - online: true
+17/08/2021 19:46:46https://casadocodigo.com.br - online: true
+17/08/2021 20:46:31https://random-status-code.herokuapp.com/ - online: false
+17/08/2021 20:46:32https://alura.com.br - online: true
+17/08/2021 20:46:33https://google.com.br - online: true
+17/08/2021 20:46:34https://casadocodigo.com.br - online: true
+17/08/2021 20:46:39https://random-status-code.herokuapp.com/ - online: false
+17/08/2021 20:46:40https://alura.com.br - online: true
+17/08/2021 20:46:40https://google.com.br - online: true
+17/08/2021 20:46:40https://casadocodigo.com.br - online: true
+17/08/2021 20:46:46https://random-status-code.herokuapp.com/ - online: true
+17/08/2021 20:46:46https://alura.com.br - online: true
+17/08/2021 20:46:46https://google.com.br - online: true
+17/08/2021 20:46:47https://casadocodigo.com.br - online: true
+17/08/2021 20:47:40https://random-status-code.herokuapp.com/ - online: false
+17/08/2021 20:47:40https://alura.com.br - online: true
+17/08/2021 20:47:41https://google.com.br - online: true
+17/08/2021 20:47:41https://casadocodigo.com.br - online: true
+17/08/2021 20:48:04https://random-status-code.herokuapp.com/ - online: false
+17/08/2021 20:48:05https://alura.com.br - online: true
+17/08/2021 20:48:05https://google.com.br - online: true
+17/08/2021 20:48:06https://casadocodigo.com.br - online: true
+17/08/2021 20:48:55https://random-status-code.herokuapp.com/ - online: true
+17/08/2021 20:48:56https://alura.com.br - online: true
+17/08/2021 20:48:56https://google.com.br - online: true
+17/08/2021 20:48:57https://casadocodigo.com.br - online: true
+17/08/2021 20:49:02https://random-status-code.herokuapp.com/ - online: true
+17/08/2021 20:49:03https://alura.com.br - online: true
+17/08/2021 20:49:03https://google.com.br - online: true
+17/08/2021 20:49:03https://casadocodigo.com.br - online: true
+17/08/2021 20:49:09https://random-status-code.herokuapp.com/ - online: true
+17/08/2021 20:49:09https://alura.com.br - online: true
+17/08/2021 20:49:09https://google.com.br - online: true
+17/08/2021 20:49:10https://casadocodigo.com.br - online: true
+17/08/2021 20:49:32 https://random-status-code.herokuapp.com/ - online: false
+17/08/2021 20:49:32 https://alura.com.br - online: true
+17/08/2021 20:49:33 https://google.com.br - online: true
+17/08/2021 20:49:33 https://casadocodigo.com.br - online: true
